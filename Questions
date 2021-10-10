@@ -5,3 +5,7 @@ What is the difference between using a @OneToMany and @ElementCollection annotat
 Hibernate Architecture -https://www.geeksforgeeks.org/hibernate-architecture/
 Can we throw custom exception in Optional ? -https://www.baeldung.com/java-optional-throw-exception
 Interfaces vs Abstract Classes
+Immutable collection
+How to prevent Singleton Pattern from Reflection, Serialization and Cloning?
+Atomic operations
+ Implement Queue using an ArrayList
