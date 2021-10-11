@@ -1,3 +1,4 @@
 write code to print even odd in sequence using MultiThreading?
 sum of last 10 nodes of linked list then write unit test then about complexity of algorithm
 Design algorithm to convert hexadecimal numbers to decimal number
+print fisrt smallest adjascent number in an array 1,23,4,6 output-4 . if not found print last number
