@@ -12,3 +12,8 @@ cheater
 Output:
 ainrt
 -1
+
+second question 
+Chef has an array a consisting of positive integers. This array is sorted in non-decreasing order from left to right.
+
+You are given Q queries. Each query consists of three integers l,r,x. The answer to this query can be found as follows. Consider the subarray al,al+1,…,ar. The answer to the query is the count of numbers in this subarray that are greater than or equal to x.
